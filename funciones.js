@@ -3,7 +3,7 @@ const sumar = (a, b) => {
 };
 
 const restar = (a, b) => {
-  return a * b;
+  return a - b;
 };
 
 module.exports = {
